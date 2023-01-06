@@ -1,0 +1,15 @@
+.sp{
+    background-color: rgb(212, 195, 205);
+    padding: 7px;
+    
+}
+
+header{
+    text-align: center;
+    color: blueviolet;
+}
+
+a{
+    text-decoration: none;
+    margin-right: 35px;
+}
